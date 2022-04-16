@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "Palindrome.C": "cpp",
+        "Armstrong.C": "cpp",
+        "Calculator.C": "cpp",
+        "Primenos.C": "cpp"
+    }
+}
