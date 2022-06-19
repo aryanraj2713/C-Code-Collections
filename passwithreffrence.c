@@ -5,6 +5,7 @@ void sort(int n, int* ptr)
 {
     int i, j, t;
   
+  
     // Sort the numbers using pointers
     for (i = 0; i < n; i++) {
   
