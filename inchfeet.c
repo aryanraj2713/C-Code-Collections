@@ -5,6 +5,7 @@ struct Distance {
    float inch;
 } d1, d2, result;
 int main() {
+   
 
    printf("Enter 1st distance\n");
    printf("Enter feet: ");
