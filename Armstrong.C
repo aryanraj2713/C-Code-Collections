@@ -10,6 +10,7 @@ int main() {
 
    originalNum = num;
 
+
    
    for (originalNum = num; originalNum != 0; ++n) {
        originalNum /= 10;
